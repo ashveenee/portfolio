@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  allowedDevOrigins: ["192.168.253.43"],
+  output: "export",
+  images: { unoptimized: true },
 };
 
 export default nextConfig;
