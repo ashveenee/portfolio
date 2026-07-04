@@ -35,7 +35,7 @@ const projects = [
     tags: ["Laravel", "MySQL"],
   },
   {
-    title: "Automatic Number Identification (ANI)",
+    title: "Automatic Number Identification",
     desc: "Developed a caller ID management system based on SIP trunk rules and configurations. Implemented routing logic, number mapping, and configuration management features to support telecom operations. Enhanced system reliability through validation mechanisms and optimized database queries.",
     tags: ["Laravel", "MySQL"],
   },
